@@ -1,4 +1,4 @@
-def countdown_with_sleep(sleep=1)
+(sleep=1)
   sleep
   x = 10
   while x > 0
@@ -6,4 +6,4 @@ def countdown_with_sleep(sleep=1)
     x -= 1
   end
   "HAPPY NEW YEAR!"
-end
+enddef countdown_with_sleep
