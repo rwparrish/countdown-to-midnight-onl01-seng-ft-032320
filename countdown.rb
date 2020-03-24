@@ -9,7 +9,7 @@ end
 "HAPPY NEW YEAR!"
 end
 
-def countdown_with_sleep(sleep=1)
+def countdown_with_sleep(num)
   sleep
   x = 10
   while x > 0
